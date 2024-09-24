@@ -3,10 +3,15 @@
  */
 
 // 1. Initialisez une variable firstName à "John" et affichez sa valeur dans la console.
-
+const firstName = "john"
+firstName = "john"
 // 2. Initialisez une variable lastName à "Smith" et une variable age à 28.
+let lastName = Smith
+lastName = "Smith"
+let age = 28
+age = "28"
 
-// 3. Initialisez une variable fullAge à true et affichez-la.
+// 3. Initializes une variable fullAge à true et affichez-la.
 
 // 4. Déclarez une variable job et affichez sa valeur dans la console.
 
