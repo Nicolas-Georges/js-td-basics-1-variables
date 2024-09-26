@@ -14,5 +14,24 @@
 // 4. Imprimez une chaîne de caractères dans la console contenant la
 //    variable de l'étape 3 (Quelque chose du genre "Est-ce que le BMI de
 //    Mark est plus élevé que celui de John ? true").
+const poidMark = 110
+const poidJohn = 48
+const tailleMark = 189
+const tailleJohn = 176
+
+const bmiMark = poidMark / tailleMark^2;
+const bmiJohn = poidJohn / tailleJohn^2;
+
+const bmi = true
+
+console.log( poidJohn,poidMark,tailleJohn,tailleMark,bmi,bmiJohn,bmiMark)
+
+
+
+
+
+
+
+
 //
 // BONNE CHANCE 😀
